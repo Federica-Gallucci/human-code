@@ -27,3 +27,4 @@ Consegna in tempo (Prime)
     - SE l’oggetto è il libro
       - SE l’oggetto arriva in tempo (È prime) AND SE il costo dell’oggetto < budget
         - Compro il libro
+    - ALTRIMENTI non compro il regalo
